@@ -1,0 +1,45 @@
+body{
+      text-align:center;
+      
+}
+.main_div{
+      /* border:1px solid red; */
+      width:70%;
+      margin-left:20%;
+      margin-right:auto;
+}
+.main_contact{
+      /* background-color:aqua; */
+      /* border:1px solid blue; */
+      display:flex;
+      height:40px;
+      background-color: black;
+      border: 3px solid white;
+}
+.name{
+
+      
+      text-emphasis-color: white;
+      display:flex;
+      margin-left: 20%;
+      justify-content:left;
+      /* border:1px solid cyan; */
+      text-align: center;
+}
+.phone{
+      margin-left: 20%;
+      display:flex;
+      /* border: 1px solid green; */
+      justify-content:center;
+      text-align:center;
+      
+
+}
+p{
+      color:red;
+}
+.del-contact{
+      display:flex;
+      margin-top: 5px;
+      margin-left: 10px;
+}
